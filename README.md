@@ -1,2 +1,2 @@
 # ISB-2025-Stockholm
-Here you can find the PDF of the presentations and abstract presented by the NeuromecHahnics team at the ISB 2025 congress in Stockholm
+Here you can find the PDFs of the presentations and the posters presented by the NeuromecHAHNics lab at the ISB 2025 congress in Stockholm
